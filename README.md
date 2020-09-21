@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Eugene (You can call me John😊)! 🦦
+# Hello there 👋, I'm Eugene (You can call me John😊)!
 
 **Get in touch:**
 ![Profile views](https://gpvc.arturio.dev/ezalivadnyi)
